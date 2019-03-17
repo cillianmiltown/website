@@ -1,0 +1,16 @@
+---
+title: New Album
+author: Cillian McHugh
+date: '2019-03-17'
+slug: new-album
+categories: []
+tags: []
+description: ''
+featured_image: ''
+---
+
+## It Will Pass
+
+I recently completed my second album. It is available here:
+
+<iframe name="mini" style="border:0px;width:100%;height:100px;" src="//widget.cdbaby.com/3f2958b0-1c69-499d-a220-b71fbfbbd41c/mini/dark/transparent"></iframe>
