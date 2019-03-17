@@ -3,6 +3,8 @@ baseURL = "https://www.cillianmchugh.com/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 #themesDir = "R_blog/website/themes"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
